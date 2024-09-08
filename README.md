@@ -12,11 +12,6 @@ Completed April 2021 (solo project)
 * CSS
 * Bootstrap
 
-## Video Demo
-
-<a href="https://youtu.be/m3ON8CZSg8o">
-<img src="vid.png" alt="video demo" width="600px">
-</a>
 
 
 ## Intro
@@ -68,4 +63,4 @@ The only pages that are visible to users who are not logged in are the login pag
 The site is mobile-responsive, designed using Bootstrap. Many aspects of the page, including the top nav-bar and columns, automatically resize or change their layout depending on the size of the viewport. Professional-looking styling has been added using Bootstrap and CSS ("static/train/styles.css")
 
 ## Summary
-This was my most complex project as of April 2021, containing multiple interrelated database models, 20 HTML templates, eight JavaScript files to minimize page reloads, and 26 functions in the "views.py" file including 11 API endpoints for asynchronous JavaScript requests. Moreover, this application was designed to be practically useful for a real small business, with great attention to features that would make the site practical and functional for real users.
+This project contains multiple interrelated database models, 20 HTML templates, eight JavaScript files to minimize page reloads, and 26 functions in the "views.py" file including 11 API endpoints for asynchronous JavaScript requests. Moreover, this application was designed to be practically useful for a real small business, with great attention to features that would make the site practical and functional for real users.
