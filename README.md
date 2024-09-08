@@ -1,5 +1,4 @@
-# Pure Training: a workout tracking application for personal trainers and their clients
-Completed April 2021 (solo project)
+# Pure Conditioning - A Fitness Trainer Application
 
 
 ## Tech Stack:
